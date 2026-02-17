@@ -1,7 +1,5 @@
-# Hestia Labs
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hestialabs/hestialabs/main/logo_h_11zon.png" alt="Hestia Labs Logo" width="180"/>
+  <img src="https://raw.githubusercontent.com/hestialabs/hestialabs/main/logo_h_11zon.png" alt="Hestia Labs Logo" width="200"/>
 </p>
 
 ---
