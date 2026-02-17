@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hestia Labs
 
-<!--
-**hestialabs/hestialabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hestia Labs exists to redefine how people interact with their homes.
 
-Here are some ideas to get you started:
+## Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The goal is to build a home that behaves like an operating system — structured, predictable, intelligent, and fully under the user’s control. Instead of fragmented apps and disconnected devices, Hestia aims to create a single, integrated ecosystem powered by AI.
+
+## Long-Term Direction
+
+- Homes that understand intent, not just commands  
+- Automation that feels natural, not scripted  
+- Intelligence that enhances daily life without compromising privacy  
+- A system built from the ground up to be secure, reliable, and extensible  
+
+## Mission
+
+Hestia Labs is not just building smart devices. It is building the foundation for intelligent environments — where AI becomes the orchestration layer of physical space.
