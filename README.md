@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hestialabs/hestialabs/main/logo_h_11zon.png" alt="Hestia Labs Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/hestialabs/hestialabs/main/banner-big.png" alt="Hestia Labs Logo" width="200"/>
 </p>
 
 <p align="center">
