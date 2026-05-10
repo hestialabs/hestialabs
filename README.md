@@ -1,6 +1,12 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/hestialabs/hestialabs/main/logo_h_11zon.png" alt="Hestia Labs Logo" width="200"/>
+</p>
+
+<p align="center">
+  <a href="https://hestialabs.in"><img src="https://img.shields.io/badge/Website-hestialabs.in-black?style=flat-square" alt="Website"></a>
+  <a href="https://github.com/hestialabs"><img src="https://img.shields.io/badge/GitHub-hestialabs-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://linkedin.com/company/hestialabs"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://x.com/hestialabs_in"><img src="https://img.shields.io/badge/X-Follow-black?style=flat-square&logo=x" alt="X"></a>
 </p>
 
 ---
